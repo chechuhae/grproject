@@ -13,4 +13,5 @@ RUN pip install \
 
 CMD ["jupyter-lab","--ip=0.0.0.0","--no-browser","--allow-root"]
 
-17/05/2022 - 13/17
+17/05/2022 - 13/36
+
